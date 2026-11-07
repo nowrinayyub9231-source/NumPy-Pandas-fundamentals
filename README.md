@@ -113,5 +113,6 @@ Then run the cells from top to bottom using **Kernel → Restart & Run All**.
 **Nowrin**
 Microbiology graduate transitioning into data analytics
 
-- LinkedIn: _add your link here_
-- GitHub: _add your link here_
+- LinkedIn: https://www.linkedin.com/in/nowryub
+
+- GitHub: https://github.com/nowrinayyub9231-source
